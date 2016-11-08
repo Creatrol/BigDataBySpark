@@ -1,0 +1,75 @@
+total record 989818
+[u'frontpage'] 313181
+[u'on-air'] 217101
+[u'news'] 175286
+[u'tech'] 121948
+[u'local'] 121719
+[u'sports'] 119138
+[u'business'] 112183
+[u'weather'] 95615
+[u'msn-news'] 90192
+[u'misc'] 80514
+[u'msn-sports'] 76948
+[u'news', u'frontpage'] 74704
+[u'living'] 57597
+[u'health'] 50606
+[u'business', u'frontpage'] 43178
+[u'on-air', u'frontpage'] 40078
+[u'local', u'frontpage'] 39183
+[u'sports', u'frontpage'] 38826
+[u'misc', u'frontpage'] 36419
+[u'tech', u'frontpage'] 33364
+[u'misc', u'on-air'] 33283
+[u'living', u'frontpage'] 32722
+[u'summary'] 29200
+[u'local', u'news'] 27533
+[u'misc', u'local'] 27029
+[u'health', u'frontpage'] 26248
+[u'news', u'on-air'] 25425
+[u'tech', u'news'] 25292
+[u'opinion'] 24987
+[u'business', u'news'] 23453
+[u'local', u'on-air'] 21445
+[u'misc', u'news'] 19918
+[u'sports', u'news'] 18964
+[u'msn-news', u'local'] 18115
+[u'msn-sports', u'sports'] 18013
+[u'health', u'news'] 17680
+[u'living', u'news'] 17366
+[u'local', u'news', u'frontpage'] 16566
+[u'business', u'news', u'frontpage'] 15524
+[u'tech', u'on-air'] 15410
+[u'msn-news', u'on-air'] 15111
+[u'news', u'on-air', u'frontpage'] 15106
+[u'tech', u'news', u'frontpage'] 14703
+[u'business', u'tech'] 14701
+[u'misc', u'local', u'frontpage'] 14602
+[u'health', u'on-air'] 14193
+[u'summary', u'on-air'] 14034
+[u'business', u'local'] 14008
+[u'local', u'tech'] 13962
+[u'living', u'news', u'frontpage'] 13098
+[u'misc', u'news', u'frontpage'] 12949
+[u'misc', u'msn-news'] 12908
+[u'business', u'on-air'] 12812
+[u'sports', u'local'] 12714
+[u'opinion', u'frontpage'] 12345
+[u'health', u'news', u'frontpage'] 12074
+[u'sports', u'news', u'frontpage'] 11995
+[u'weather', u'news'] 11751
+[u'business', u'sports'] 11715
+[u'living', u'on-air'] 11516
+[u'living', u'local'] 11342
+[u'msn-news', u'frontpage'] 11311
+[u'misc', u'sports'] 11291
+[u'misc', u'on-air', u'frontpage'] 11219
+[u'sports', u'on-air'] 11118
+[u'travel'] 11006
+[u'weather', u'frontpage'] 10723
+[u'living', u'business'] 10479
+[u'msn-news', u'tech'] 10383
+[u'misc', u'local', u'news'] 10380
+[u'msn-news', u'news'] 10255
+[u'weather', u'on-air'] 10184
+[u'weather', u'local'] 10174
+[u'msn-news', u'business'] 10173

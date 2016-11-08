@@ -1,0 +1,17 @@
+frontpage     940469
+news     452387
+weather     439398
+on-air     414928
+sports     395880
+local     386217
+misc     305615
+business     264899
+msn-sports     216125
+tech     207479
+msn-news     196614
+opinion     151409
+health     131760
+living     96817
+summary     56576
+bbs     25249
+travel     16972

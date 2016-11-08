@@ -1,0 +1,11 @@
+k = 2  Sum of  Error = 16.3187719036
+k = 3  Sum of  Error = 15.4194825533
+k = 4  Sum of  Error = 14.8892304669
+k = 5  Sum of  Error = 14.2703893767
+k = 6  Sum of  Error = 13.7811348845
+k = 7  Sum of  Error = 13.2733313838
+k = 8  Sum of  Error = 12.9732788457
+k = 9  Sum of  Error = 12.7694618161
+k = 10  Sum of  Error = 12.1565061275
+k = 11  Sum of  Error = 12.0395908905
+k = 12  Sum of  Error = 11.8582970639

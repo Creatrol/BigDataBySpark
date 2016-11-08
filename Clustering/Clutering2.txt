@@ -1,0 +1,6 @@
+k = 2  Sum of  Error = 11992675.5212
+k = 3  Sum of  Error = 5922058.19216
+k = 4  Sum of  Error = 2423119.45705
+k = 5  Sum of  Error = 2112294.93036
+k = 6  Sum of  Error = 2098579.92989
+k = 7  Sum of  Error = 2096928.56159
